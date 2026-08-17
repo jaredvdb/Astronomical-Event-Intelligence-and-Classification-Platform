@@ -1,2 +1,6 @@
-# Multi-Source-Intelligence-Analytics-NLP-Platform
-Project: An end-to-end system that ingests structured and unstructured public data, stores and transforms it, applies statistical/ML/NLP models, and exposes the results through an interactive application to support a hypothetical analyst/client decision
+# Astronomical-Event-Intelligence-and-Classification-Platform
+Build an end-to-end data science platform that:
+- Ingests astronomical observations and public scientific reports
+- Stores and transform data
+- Applies machine learning and NLP to classify or prioritize events
+- Presents results through an analyst-facing application.
