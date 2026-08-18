@@ -1,7 +1,7 @@
 -- Goal: Explore relevant columns within the SDSS DR20 (Sloan Digital Sky Survey - Data Release 20)
 
--- inspect-SDSS-DR20-Q1
--- Used for exploring 5k objects, selected columns based on objective of 
+-- Inspect PhotoPrimary table
+-- Used for exploring 5k objects
 SELECT TOP 5000
     objID,        -- Useful identifier, can connect to SpecObj table via 'bestObjID'
     ra,           -- Sky position, right ascension
