@@ -18,3 +18,4 @@ SELECT TOP 5000
     ra,               -- Right ascension
     dec               -- Declination 
 FROM SpecObj
+WHERE zWarning = 0 AND class = "STAR"
