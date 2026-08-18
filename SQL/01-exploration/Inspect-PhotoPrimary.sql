@@ -28,4 +28,4 @@ SELECT TOP 5000
     clean         -- Quality flag given by the SDSS, based on a variety of factors like Saturation (obj too bright, detector pixels saturated), edge (too close to edge of imaging frame), blended (mixed light from other objs), etc.
 FROM PhotoPrimary
 WHERE clean = 1   -- Prefiltering so have reliable, verified data
--- EXPORTED: "Skyserver_SQL8_18_2026 3_46_35 PM.csv"
+-- EXPORTED: "PhotoPrimary-SQL-Search.csv"
