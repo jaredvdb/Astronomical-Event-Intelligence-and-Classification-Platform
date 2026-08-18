@@ -1,4 +1,4 @@
-# Astronomical-Event-Intelligence-and-Classification-Platform
+# Astronomical Event Intelligence & Classification Platform
 Build an end-to-end data science platform that:
 - Ingests astronomical observations and public scientific reports
 - Stores and transform data
