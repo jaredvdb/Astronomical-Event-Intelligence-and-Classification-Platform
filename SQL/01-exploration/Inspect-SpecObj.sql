@@ -19,3 +19,4 @@ SELECT TOP 5000
     dec               -- Declination 
 FROM SpecObj
 WHERE zWarning = 0 AND class = "STAR" -- only Stars, with cleaner data 
+-- EXPORTED: "SpecObj-SQL-Search.csv"
